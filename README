@@ -16,7 +16,7 @@ a.out
 Makefile
 
 How this program compiles:
-g++ -o.cpp
+g++ *.cpp
 ./a.out
 Enter txt file name
 Check kashishpandey.out for results 
