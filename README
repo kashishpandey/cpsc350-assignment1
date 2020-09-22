@@ -1,0 +1,45 @@
+Kashish Pandey
+CPSC 350-02
+Student ID: 002342588
+Programming Assignment 1: C++ Review
+
+Errors:
+No known errors
+
+Source Files:
+DNA.h
+DNA.cpp
+main.cpp
+assign1dna.txt
+kashishpandey.out
+a.out
+
+How this program compiles:
+g++ -o.cpp
+./a.out
+Enter txt file name
+Check kashishpandey.out for results 
+
+
+References:
+
+Random max-
+http://www.cplusplus.com/forum/beginner/73642/
+https://stackoverflow.com/questions/9878965/rand-between-0-and-1
+
+Input/output files-
+http://www.cplusplus.com/doc/tutorial/files/
+http://www.cplusplus.com/reference/fstream/fstream/open/
+
+#include <algorithm>-
+http://www.cplusplus.com/reference/algorithm/
+
+Standard deviation-
+//different language but the general idea is the same
+https://stackoverflow.com/questions/57101064/how-can-i-get-standard-deviation-without-using-arrays-in-java
+
+Variance-
+https://stackoverflow.com/questions/61219675/c-variance-and-standard-deviation
+
+Shuffling string-
+https://www.geeksforgeeks.org/shuffle-vs-random_shuffle-c/
