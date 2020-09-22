@@ -13,6 +13,7 @@ main.cpp
 assign1dna.txt
 kashishpandey.out
 a.out
+Makefile
 
 How this program compiles:
 g++ -o.cpp
