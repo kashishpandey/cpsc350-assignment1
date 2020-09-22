@@ -60,7 +60,7 @@ int main(int argc, char** argv){
       }
       // if the user types something invalid
       else {
-				cout << "Please enter a valid option" << endl;
+		cout << "Please enter a valid option" << endl;
       }
     }
   }
